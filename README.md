@@ -12,6 +12,8 @@
 * *-u* -команда резрешения для быстрой отправки/получения;
 * *origin* - текущее состояние.
 
-## Example of transferring information to a remote repository
+### Example of transferring information to a remote repository
 
 * Change from local repository
+
+* *git push* - - команда отправляющая текущее состояние локального репозитория, если связь уже установлена;
