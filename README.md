@@ -11,3 +11,7 @@
 * *git push -u origin master* - команда отправляющая текущее состояние локального репозитория;
 * *-u* -команда резрешения для быстрой отправки/получения;
 * *origin* - текущее состояние.
+
+## Example of transferring information to a remote repository
+
+* Change from local repository
